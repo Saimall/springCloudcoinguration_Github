@@ -1,0 +1,1 @@
+Instead of creating a folder in config and adding all application peroperties by creating servicename.properties file we will create this all servicename.properties file inside one repo of github and use this repo url in the application peorpeties of config 
